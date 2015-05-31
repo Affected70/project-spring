@@ -1,0 +1,10 @@
+.slick-active {
+    color: blue;
+}
+
+.images {
+    position: relative;
+    width: 965px;
+    height: 392px;
+    overflow: hidden;
+}
